@@ -1,5 +1,9 @@
  ### 🔭 Salve Boas Vindas ao meu perfil 🔭 
-
+    Me chamo Arthur OLiveira 
+   
+    Estou cursando o Alura na aula de Tecnologia
+    Estou desenvolvendo meus projetos na linguagem do JavaScript
+    Utilizo esse espaço para minha organizaçãoe compartilhar meus projetos ;)  
 <!--
 **Jmcaoliveira2/Jmcaoliveira2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
